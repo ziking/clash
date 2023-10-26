@@ -6,18 +6,18 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - name: 🇭🇰香港I2
-    server: 183.213.200.143
-    port: 21852
+    server: 183.213.200.225
+    port: 10443
     type: trojan
     password: 9UcOoUycgQ
-    sni: v.qq.com
+    sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I5
     server: 183.213.200.205
     port: 10443
     type: trojan
     password: 9UcOoUycgQ
-    sni: v.qq.com
+    sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I2C
     server: 183.213.200.225
