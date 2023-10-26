@@ -6,27 +6,39 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - name: 🇭🇰香港I2
-    server: 183.213.200.225
-    port: 10443
+    server: 183.213.200.143
+    port: 21852
     type: trojan
-    password: uQnyo9RaM7
+    password: 9UcOoUycgQ
     sni: v.qq.com
     skip-cert-verify: true
-    
   - name: 🇭🇰香港I5
     server: 183.213.200.205
     port: 10443
     type: trojan
-    password: uQnyo9RaM7
+    password: 9UcOoUycgQ
     sni: v.qq.com
     skip-cert-verify: true
-
   - name: 🇭🇰香港I2C
     server: 183.213.200.225
     port: 10443
     type: trojan
     password: uQnyo9RaM7
+    sni: www.icloud.com
+    skip-cert-verify: true
+  - name: 🇭🇰 香港 P3
+    server: 183.213.200.143
+    port: 21852
+    type: trojan
+    password: 9UcOoUycgQ
     sni: v.qq.com
+    skip-cert-verify: true
+  - name: 🇸🇬 新加坡 P1
+    server: 183.232.170.62
+    port: 21853
+    type: trojan
+    password: 9UcOoUycgQ
+    sni: www.icloud.com
     skip-cert-verify: true
 proxy-groups:
   - name: 🚀 节点选择
@@ -37,7 +49,8 @@ proxy-groups:
       - 🔮 负载均衡
       - 🇭🇰香港I2
       - 🇭🇰香港I5
-      - 🇭🇰香港I2C
+      - 🇭🇰 香港 P3
+      - 🇸🇬 新加坡 P1
       - DIRECT
   - name: ♻️ 自动选择
     type: url-test
@@ -47,7 +60,8 @@ proxy-groups:
     proxies:
       - 🇭🇰香港I2
       - 🇭🇰香港I5
-      - 🇭🇰香港I2C
+      - 🇭🇰 香港 P3
+      - 🇸🇬 新加坡 P1
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
