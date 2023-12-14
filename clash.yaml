@@ -9,35 +9,35 @@ proxies:
     server: 183.213.200.225
     port: 10443
     type: trojan
-    password: q5wkf3T3EU
+    password: Um96ituewO
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I5
     server: 183.213.200.205
     port: 10443
     type: trojan
-    password: q5wkf3T3EUi
+    password: Um96ituewO
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I2C
     server: 183.213.200.225
     port: 10443
     type: trojan
-    password: q5wkf3T3EU
+    password: Um96ituewO
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰 香港 P3
     server: 183.213.200.143
     port: 21852
     type: trojan
-    password: q5wkf3T3EU
+    password: Um96ituewO
     sni: v.qq.com
     skip-cert-verify: true
   - name: 🇸🇬 新加坡 P1
     server: 183.232.170.62
     port: 21853
     type: trojan
-    password: q5wkf3T3EU
+    password: Um96ituewO
     sni: www.icloud.com
     skip-cert-verify: true
 proxy-groups:
