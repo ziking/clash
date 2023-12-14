@@ -16,7 +16,7 @@ proxies:
     server: 183.213.200.205
     port: 10443
     type: trojan
-    password: q5wkf3T3EU
+    password: q5wkf3T3EUi
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I2C
