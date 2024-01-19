@@ -49,7 +49,7 @@ proxy-groups:
       - 🔮 负载均衡
       - 🇭🇰香港I2
       - 🇭🇰香港I5
-      - 🇭🇰 香港 P3
+      - 🇭🇰 香港 P4
       - 🇸🇬 新加坡 P1
       - DIRECT
   - name: ♻️ 自动选择
@@ -60,7 +60,7 @@ proxy-groups:
     proxies:
       - 🇭🇰香港I2
       - 🇭🇰香港I5
-      - 🇭🇰 香港 P3
+      - 🇭🇰 香港 P4
       - 🇸🇬 新加坡 P1
   - name: 🔯 故障转移
     type: fallback
