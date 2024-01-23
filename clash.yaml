@@ -9,35 +9,35 @@ proxies:
     server: 183.213.200.225
     port: 10443
     type: trojan
-    password: wnPoojXvlt
+    password: ooEMOR9Efo
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I5
     server: 183.213.200.205
     port: 10443
     type: trojan
-    password: wnPoojXvlt
+    password: ooEMOR9Efo
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I2C
     server: 183.213.200.225
     port: 10443
     type: trojan
-    password: wnPoojXvlt
+    password: ooEMOR9Efo
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰 香港 P4
     server: 183.213.200.143
     port: 21852
     type: trojan
-    password: mAgVc8XbrR
+    password: ooEMOR9Efo
     sni: visualstudio.microsoft.com
     skip-cert-verify: true
   - name: 🇸🇬 新加坡 P1
     server: 36.158.249.43
     port: 21855
     type: trojan
-    password: mAgVc8XbrR
+    password: ooEMOR9Efo
     sni: visualstudio.microsoft.com
     skip-cert-verify: true
 proxy-groups:
