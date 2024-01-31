@@ -9,14 +9,14 @@ proxies:
     server: 183.213.200.225
     port: 10443
     type: trojan
-    password: hu38Fm6fyy
+    password: vOuxwz8t9h
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I5
     server: 183.213.200.205
     port: 10443
     type: trojan
-    password: hu38Fm6fyy
+    password: vOuxwz8t9h
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I2C
