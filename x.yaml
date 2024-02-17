@@ -5,165 +5,165 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇨🇳 Taiwan 01🐼@hwzy0, server: e001.panda003.net, port: 2003, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: Panda LG 18🐼@hwzy0, server: p080.panda001.net, port: 7818, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: panda LG 16🐼@hwzy0, server: p078.panda001.net, port: 53205, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 01🐼@hwzy0, server: p220.panda001.net, port: 53258, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 02🐼@hwzy0, server: p221.panda001.net, port: 53288, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 05🐼@hwzy0, server: p224.panda004.net, port: 53029, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 06🐼@hwzy0, server: p225.panda004.net, port: 39657, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 07🐼@hwzy0, server: p226.panda004.net, port: 53288, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 08🐼@hwzy0, server: p227.panda004.net, port: 2020, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 09🐼@hwzy0, server: p228.panda004.net, port: 4319, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 10🐼@hwzy0, server: p229.panda004.net, port: 57428, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 11🐼@hwzy0, server: p230.panda004.net, port: 10122, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 12🐼@hwzy0, server: p231.panda004.net, port: 4375, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 14🐼@hwzy0, server: p233.panda004.net, port: 52813, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 17🐼@hwzy0, server: p236.panda004.net, port: 39657, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 18🐼@hwzy0, server: p237.panda004.net, port: 53029, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대한민국 19🐼@hwzy0, server: p238.panda004.net, port: 52771, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
-  - {name: 대힌민국 16🐼@hwzy0, server: p235.panda004.net, port: 45293, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 🇨🇳 Taiwan 01🐼, server: e001.panda003.net, port: 2003, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: Panda LG 18🐼, server: p080.panda001.net, port: 7818, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: panda LG 16🐼, server: p078.panda001.net, port: 53205, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 01🐼, server: p220.panda001.net, port: 53258, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 02🐼, server: p221.panda001.net, port: 53288, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 05🐼, server: p224.panda004.net, port: 53029, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 06🐼, server: p225.panda004.net, port: 39657, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 07🐼, server: p226.panda004.net, port: 53288, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 08🐼, server: p227.panda004.net, port: 2020, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 09🐼, server: p228.panda004.net, port: 4319, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 10🐼, server: p229.panda004.net, port: 57428, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 11🐼, server: p230.panda004.net, port: 10122, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 12🐼, server: p231.panda004.net, port: 4375, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 14🐼, server: p233.panda004.net, port: 52813, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 17🐼, server: p236.panda004.net, port: 39657, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 18🐼, server: p237.panda004.net, port: 53029, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대한민국 19🐼, server: p238.panda004.net, port: 52771, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
+  - {name: 대힌민국 16🐼, server: p235.panda004.net, port: 45293, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇨🇳 Taiwan 01🐼@hwzy0
-      - Panda LG 18🐼@hwzy0
-      - panda LG 16🐼@hwzy0
-      - 대한민국 01🐼@hwzy0
-      - 대한민국 02🐼@hwzy0
-      - 대한민국 05🐼@hwzy0
-      - 대한민국 06🐼@hwzy0
-      - 대한민국 07🐼@hwzy0
-      - 대한민국 08🐼@hwzy0
-      - 대한민국 09🐼@hwzy0
-      - 대한민국 10🐼@hwzy0
-      - 대한민국 11🐼@hwzy0
-      - 대한민국 12🐼@hwzy0
-      - 대한민국 14🐼@hwzy0
-      - 대한민국 17🐼@hwzy0
-      - 대한민국 18🐼@hwzy0
-      - 대한민국 19🐼@hwzy0
-      - 대힌민국 16🐼@hwzy0
+      - 🇨🇳 Taiwan 01🐼
+      - Panda LG 18🐼
+      - panda LG 16🐼
+      - 대한민국 01🐼
+      - 대한민국 02🐼
+      - 대한민국 05🐼
+      - 대한민국 06🐼
+      - 대한민국 07🐼
+      - 대한민국 08🐼
+      - 대한민국 09🐼
+      - 대한민국 10🐼
+      - 대한민국 11🐼
+      - 대한민국 12🐼
+      - 대한민국 14🐼
+      - 대한민국 17🐼
+      - 대한민국 18🐼
+      - 대한민국 19🐼
+      - 대힌민국 16🐼
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇳 Taiwan 01🐼@hwzy0
-      - Panda LG 18🐼@hwzy0
-      - panda LG 16🐼@hwzy0
-      - 대한민국 01🐼@hwzy0
-      - 대한민국 02🐼@hwzy0
-      - 대한민국 05🐼@hwzy0
-      - 대한민국 06🐼@hwzy0
-      - 대한민국 07🐼@hwzy0
-      - 대한민국 08🐼@hwzy0
-      - 대한민국 09🐼@hwzy0
-      - 대한민국 10🐼@hwzy0
-      - 대한민국 11🐼@hwzy0
-      - 대한민국 12🐼@hwzy0
-      - 대한민국 14🐼@hwzy0
-      - 대한민국 17🐼@hwzy0
-      - 대한민국 18🐼@hwzy0
-      - 대한민국 19🐼@hwzy0
-      - 대힌민국 16🐼@hwzy0
+      - 🇨🇳 Taiwan 01🐼
+      - Panda LG 18🐼
+      - panda LG 16🐼
+      - 대한민국 01🐼
+      - 대한민국 02🐼
+      - 대한민국 05🐼
+      - 대한민국 06🐼
+      - 대한민국 07🐼
+      - 대한민국 08🐼
+      - 대한민국 09🐼
+      - 대한민국 10🐼
+      - 대한민국 11🐼
+      - 대한민국 12🐼
+      - 대한민국 14🐼
+      - 대한민국 17🐼
+      - 대한민국 18🐼
+      - 대한민국 19🐼
+      - 대힌민국 16🐼
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇳 Taiwan 01🐼@hwzy0
-      - Panda LG 18🐼@hwzy0
-      - panda LG 16🐼@hwzy0
-      - 대한민국 01🐼@hwzy0
-      - 대한민국 02🐼@hwzy0
-      - 대한민국 05🐼@hwzy0
-      - 대한민국 06🐼@hwzy0
-      - 대한민국 07🐼@hwzy0
-      - 대한민국 08🐼@hwzy0
-      - 대한민국 09🐼@hwzy0
-      - 대한민국 10🐼@hwzy0
-      - 대한민국 11🐼@hwzy0
-      - 대한민국 12🐼@hwzy0
-      - 대한민국 14🐼@hwzy0
-      - 대한민국 17🐼@hwzy0
-      - 대한민국 18🐼@hwzy0
-      - 대한민국 19🐼@hwzy0
-      - 대힌민국 16🐼@hwzy0
+      - 🇨🇳 Taiwan 01🐼
+      - Panda LG 18🐼
+      - panda LG 16🐼
+      - 대한민국 01🐼
+      - 대한민국 02🐼
+      - 대한민국 05🐼
+      - 대한민국 06🐼
+      - 대한민국 07🐼
+      - 대한민국 08🐼
+      - 대한민국 09🐼
+      - 대한민국 10🐼
+      - 대한민국 11🐼
+      - 대한민국 12🐼
+      - 대한민국 14🐼
+      - 대한민국 17🐼
+      - 대한민국 18🐼
+      - 대한민국 19🐼
+      - 대힌민국 16🐼
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳 Taiwan 01🐼@hwzy0
-      - Panda LG 18🐼@hwzy0
-      - panda LG 16🐼@hwzy0
-      - 대한민국 01🐼@hwzy0
-      - 대한민국 02🐼@hwzy0
-      - 대한민국 05🐼@hwzy0
-      - 대한민국 06🐼@hwzy0
-      - 대한민국 07🐼@hwzy0
-      - 대한민국 08🐼@hwzy0
-      - 대한민국 09🐼@hwzy0
-      - 대한민국 10🐼@hwzy0
-      - 대한민국 11🐼@hwzy0
-      - 대한민국 12🐼@hwzy0
-      - 대한민국 14🐼@hwzy0
-      - 대한민국 17🐼@hwzy0
-      - 대한민국 18🐼@hwzy0
-      - 대한민국 19🐼@hwzy0
-      - 대힌민국 16🐼@hwzy0
+      - 🇨🇳 Taiwan 01🐼
+      - Panda LG 18🐼
+      - panda LG 16🐼
+      - 대한민국 01🐼
+      - 대한민국 02🐼
+      - 대한민국 05🐼
+      - 대한민국 06🐼
+      - 대한민국 07🐼
+      - 대한민국 08🐼
+      - 대한민국 09🐼
+      - 대한민국 10🐼
+      - 대한민국 11🐼
+      - 대한민국 12🐼
+      - 대한민국 14🐼
+      - 대한민국 17🐼
+      - 대한민국 18🐼
+      - 대한민국 19🐼
+      - 대힌민국 16🐼
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇨🇳 Taiwan 01🐼@hwzy0
-      - Panda LG 18🐼@hwzy0
-      - panda LG 16🐼@hwzy0
-      - 대한민국 01🐼@hwzy0
-      - 대한민국 02🐼@hwzy0
-      - 대한민국 05🐼@hwzy0
-      - 대한민국 06🐼@hwzy0
-      - 대한민국 07🐼@hwzy0
-      - 대한민국 08🐼@hwzy0
-      - 대한민국 09🐼@hwzy0
-      - 대한민국 10🐼@hwzy0
-      - 대한민국 11🐼@hwzy0
-      - 대한민국 12🐼@hwzy0
-      - 대한민국 14🐼@hwzy0
-      - 대한민국 17🐼@hwzy0
-      - 대한민국 18🐼@hwzy0
-      - 대한민국 19🐼@hwzy0
-      - 대힌민국 16🐼@hwzy0
+      - 🇨🇳 Taiwan 01🐼
+      - Panda LG 18🐼
+      - panda LG 16🐼
+      - 대한민국 01🐼
+      - 대한민국 02🐼
+      - 대한민국 05🐼
+      - 대한민국 06🐼
+      - 대한민국 07🐼
+      - 대한민국 08🐼
+      - 대한민국 09🐼
+      - 대한민국 10🐼
+      - 대한민국 11🐼
+      - 대한민국 12🐼
+      - 대한민국 14🐼
+      - 대한민국 17🐼
+      - 대한민국 18🐼
+      - 대한민국 19🐼
+      - 대힌민국 16🐼
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳 Taiwan 01🐼@hwzy0
-      - Panda LG 18🐼@hwzy0
-      - panda LG 16🐼@hwzy0
-      - 대한민국 01🐼@hwzy0
-      - 대한민국 02🐼@hwzy0
-      - 대한민국 05🐼@hwzy0
-      - 대한민국 06🐼@hwzy0
-      - 대한민국 07🐼@hwzy0
-      - 대한민국 08🐼@hwzy0
-      - 대한민국 09🐼@hwzy0
-      - 대한민국 10🐼@hwzy0
-      - 대한민국 11🐼@hwzy0
-      - 대한민국 12🐼@hwzy0
-      - 대한민국 14🐼@hwzy0
-      - 대한민국 17🐼@hwzy0
-      - 대한민국 18🐼@hwzy0
-      - 대한민국 19🐼@hwzy0
-      - 대힌민국 16🐼@hwzy0
+      - 🇨🇳 Taiwan 01🐼
+      - Panda LG 18🐼
+      - panda LG 16🐼
+      - 대한민국 01🐼
+      - 대한민국 02🐼
+      - 대한민국 05🐼
+      - 대한민국 06🐼
+      - 대한민국 07🐼
+      - 대한민국 08🐼
+      - 대한민국 09🐼
+      - 대한민국 10🐼
+      - 대한민국 11🐼
+      - 대한민국 12🐼
+      - 대한민국 14🐼
+      - 대한민국 17🐼
+      - 대한민국 18🐼
+      - 대한민국 19🐼
+      - 대힌민국 16🐼
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -186,24 +186,24 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇳 Taiwan 01🐼@hwzy0
-      - Panda LG 18🐼@hwzy0
-      - panda LG 16🐼@hwzy0
-      - 대한민국 01🐼@hwzy0
-      - 대한민국 02🐼@hwzy0
-      - 대한민국 05🐼@hwzy0
-      - 대한민국 06🐼@hwzy0
-      - 대한민국 07🐼@hwzy0
-      - 대한민국 08🐼@hwzy0
-      - 대한민국 09🐼@hwzy0
-      - 대한민국 10🐼@hwzy0
-      - 대한민국 11🐼@hwzy0
-      - 대한민국 12🐼@hwzy0
-      - 대한민국 14🐼@hwzy0
-      - 대한민국 17🐼@hwzy0
-      - 대한민국 18🐼@hwzy0
-      - 대한민국 19🐼@hwzy0
-      - 대힌민국 16🐼@hwzy0
+      - 🇨🇳 Taiwan 01🐼
+      - Panda LG 18🐼
+      - panda LG 16🐼
+      - 대한민국 01🐼
+      - 대한민국 02🐼
+      - 대한민국 05🐼
+      - 대한민국 06🐼
+      - 대한민국 07🐼
+      - 대한민국 08🐼
+      - 대한민국 09🐼
+      - 대한민국 10🐼
+      - 대한민국 11🐼
+      - 대한민국 12🐼
+      - 대한민국 14🐼
+      - 대한민국 17🐼
+      - 대한민국 18🐼
+      - 대한민국 19🐼
+      - 대힌민국 16🐼
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
