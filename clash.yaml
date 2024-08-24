@@ -9,37 +9,24 @@ proxies:
     server: 183.213.200.225
     port: 10443
     type: trojan
-    password: vOuxwz8t9h
+    password: xgYoJyWIL5
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I5
     server: 183.213.200.205
     port: 10443
     type: trojan
-    password: vOuxwz8t9h
+    password: xgYoJyWIL5
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I2C
-    server: 183.213.200.225
-    port: 10443
+    server: 14.29.160.216
+    port: 34169
     type: trojan
-    password: hu38Fm6fyy
+    password: xgYoJyWIL5
     sni: www.icloud.com
     skip-cert-verify: true
-  - name: 🇭🇰 香港 P4
-    server: 183.213.200.143
-    port: 21852
-    type: trojan
-    password: ooEMOR9Efo
-    sni: visualstudio.microsoft.com
-    skip-cert-verify: true
-  - name: 🇸🇬 新加坡 P1
-    server: 36.158.249.43
-    port: 21855
-    type: trojan
-    password: ooEMOR9Efo
-    sni: visualstudio.microsoft.com
-    skip-cert-verify: true
+
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -49,8 +36,7 @@ proxy-groups:
       - 🔮 负载均衡
       - 🇭🇰香港I2
       - 🇭🇰香港I5
-      - 🇭🇰 香港 P4
-      - 🇸🇬 新加坡 P1
+
       - DIRECT
   - name: ♻️ 自动选择
     type: url-test
@@ -60,8 +46,7 @@ proxy-groups:
     proxies:
       - 🇭🇰香港I2
       - 🇭🇰香港I5
-      - 🇭🇰 香港 P4
-      - 🇸🇬 新加坡 P1
+
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
