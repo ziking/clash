@@ -9,14 +9,14 @@ proxies:
     server: 14.29.160.216
     port: 34169
     type: trojan
-    password: xgYoJyWIL5
+    password: 0XKaT7R8vt
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I5
     server: 14.29.160.216
     port: 34169
     type: trojan
-    password: xgYoJyWIL5
+    password: 0XKaT7R8vt
     sni: www.icloud.com
     skip-cert-verify: true
 
