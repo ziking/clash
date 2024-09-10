@@ -8,15 +8,15 @@ proxies:
   - name: 🇭🇰香港I2
     server: 14.29.160.216
     port: 34169
-    type: trojan
-    password: 0XKaT7R8vt
+    type: trojan  
+    password: cfDBLJReC2
     sni: www.icloud.com
     skip-cert-verify: true
   - name: 🇭🇰香港I5
-    server: 14.29.160.216
-    port: 34169
+    server: 125.124.218.60
+    port: 30459
     type: trojan
-    password: 0XKaT7R8vt
+    password: cfDBLJReC2
     sni: www.icloud.com
     skip-cert-verify: true
 
